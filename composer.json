@@ -1,5 +1,5 @@
 {
-    "name": "codeception/notifier",
+    "name": "diego-vieira/notifier",
     "description": "Notification Extension for Codeception",
     "keywords": [
         "notification",
