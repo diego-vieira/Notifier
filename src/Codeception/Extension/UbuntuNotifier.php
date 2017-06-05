@@ -1,7 +1,7 @@
 <?php
 namespace Codeception\Extension;
 
-require_once __DIR__.'/../../../vendor/autoload.php';
+require_once __DIR__.'/../../../../../../vendor/autoload.php';
 
 use Namshi\Notificator\Notification\Handler\NotifySend as NotifySendHandler;
 use Namshi\Notificator\Manager;
